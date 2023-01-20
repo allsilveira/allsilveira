@@ -17,7 +17,7 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
 </div></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allsilveira&langs_count=8)](https://github.com/allsilveira/github-readme-stats)
+
 
 Apaixonada por tecnologia, programação e conhecimento.
 
